@@ -1,0 +1,16 @@
+{
+  "name": "AnimationApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "react-native": "^0.12.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^4.0.5",
+    "eslint": "^0.24.0",
+    "eslint-plugin-react": "2.5.2"
+  }
+}

@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
   },
   title: {
     fontSize: 30,
-    color: white,
+    color: red,
     fontWeight: '300',
   },
 });
@@ -38,6 +38,11 @@ class FirstApp extends React.Component {
   render() {
     return (
       <View style={styles.container}>
+        <Text style={styles.title}>Hello Bdxio !!</Text>
+        <Text style={styles.title}>Hello Bdxio !!</Text>
+        <Text style={styles.title}>Hello Bdxio !!</Text>
+        <Text style={styles.title}>Hello Bdxio !!</Text>
+        <Text style={styles.title}>Hello Bdxio !!</Text>
         <Text style={styles.title}>Hello Bdxio !!</Text>
       </View>
     );

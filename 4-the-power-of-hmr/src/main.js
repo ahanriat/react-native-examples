@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
     top: 20, left: 150,
   },
   text: {
-    color: 'white',
+    color: 'black',
     fontWeight: '400',
     backgroundColor: 'transparent',
   },
@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
 const positions = [
   {x: 50, y:50},
   {x: 200, y:120},
-  {x: 200, y:400},
+  {x: 200, y:0},
   {x: 50, y:300},
 ];
 

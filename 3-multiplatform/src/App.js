@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
     backgroundColor: gray,
   },
   text: {
-    fontSize: 40,
+    fontSize: 10,
     color: black,
     fontWeight: '300',
     margin: 30,
